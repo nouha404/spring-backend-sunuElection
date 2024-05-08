@@ -1,0 +1,194 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "nom": "Camara",
+      "prenom": "Boubacar",
+      "profession": "Douanier\/Avocat",
+      "partiePolitique": "PCS-Jengu Tabax",
+      "programmeFilePath": "https://www.editions-harmattan.fr/catalogue/couv/aplat/9782140317583.pdf",
+      "description": "Boubacar Camara, né le 26 juin 1958 à Dakar, a débuté sa carrière dans la Marine nationale sénégalaise après avoir été formé à l’École nationale de Formation maritime de Dakar. Il a poursuivi ses études en droit, obtenant un doctorat de l’Université Pierre Mendès France de Grenoble, axé sur le contentieux douanier au Sénégal, et a complété sa formation à l’École de Formation du Barreau à Paris.\n\n                    Sa carrière au sein de la Douane sénégalaise a été marquée par une progression rapide, culminant avec sa nomination en tant que Directeur général des Douanes en mai 2000. Dans ce rôle, il a initié des réformes visant à moderniser l’administration douanière.\n\n                    Après avoir quitté la Douane, Camara s’est orienté vers le conseil, apportant son expertise en douane et commerce international à divers pays africains. Il a également pratiqué le droit à la Cour d’appel de Paris. En 2009, il a été nommé Secrétaire général du Ministère de la Coopération internationale, des Transports aériens, des Infrastructures et de l’Énergie du Sénégal, et en 2011, il est devenu Président du Conseil d’administration de Sénégal Airlines.\n\n                    En 2012, Camara a fondé un cabinet de consultation, se concentrant sur des projets dans l’énergie solaire, les hydrocarbures, et le partenariat public-privé. Il a pris sa retraite anticipée de l’Inspection générale d’État en juin 2015, concluant ainsi sa carrière dans le service public.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Boubacar-camara.png"
+    },
+    {
+      "id": 2,
+      "nom": "Dieye",
+      "prenom": "Cheikh Tidiane",
+      "profession": "Docteur en sociologie",
+      "partiePolitique": "PCS-Jengu Tabax",
+      "programmeFilePath": null,
+      "description": "Cheikh Tidiane DIEYE, originaire de Ziguinchor, est détenteur d’une Maîtrise en sociologie du développement de l’Université Gaston Berger de Saint-Louis et d’un Doctorat en études du développement de l’Institut des Hautes Etudes Internationales et du Développement (IHEID) à Genève, Suisse.\n\n                    Sa carrière débute au Centre International pour le Commerce et le Développement Durable (ICTSD) à Genève, avant de rejoindre Enda Tiers-Monde à Dakar en 2002, où il coordonne les programmes sur le commerce et les négociations commerciales internationales. En 2012, il fonde le Centre Africain pour le Commerce, l’Intégration et le Développement (CACID), devenant un expert reconnu en politiques commerciales et d’intégration en Afrique.\n\n                    Engagé dans la promotion de la bonne gouvernance et de l’État de droit en Afrique, DIEYE a participé activement à diverses initiatives citoyennes et politiques. Il a été membre du Conseil d’Administration du Forum Civil, co-initiateur de plateformes citoyennes pour la participation des candidats indépendants aux élections, et a joué un rôle clé dans des mouvements pour la transparence dans la gestion des ressources naturelles. Sa contribution au débat public inclut des ouvrages sur la corruption et les relations Afrique-Europe. DIEYE se présente comme candidat à l’élection présidentielle du 25 février 2024, marquant une étape importante dans son parcours politique et citoyen.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/CHEIKH-TIDIANE-DIEYE.png"
+    },
+    {
+      "id": 3,
+      "nom": "Dethie",
+      "prenom": "Fall",
+      "profession": "Ingénieur Polytechnicien",
+      "partiePolitique": "MBA",
+      "programmeFilePath": "http://news.adakar.com/documents/docs/Dethie-Fall.pdf",
+      "description": "Déthié Fall, originaire de Saint-Louis, est un ingénieur polytechnicien avec un Master in Business Administration (MBA), spécialisé dans la gestion de projets complexes et stratégiques. Il a également suivi une formation d’officier de réserve à l’École Nationale des Officiers d’Active (ENOA) de Thiès.\n\n                    Sur le plan politique, son parcours a débuté par un rapprochement avec Idrissa Seck, président du parti Rewmi, en 2004. Il a joué un rôle actif dans la création de ce parti, devenant président des cadres en 2011, puis cumulant les fonctions de président des cadres et directeur des structures en 2013. De 2014 à 2018, il a été vice-président de Rewmi, tout en conservant ses précédentes responsabilités. Entre 2018 et 2020, il a occupé le poste de vice-président de Rewmi et a été le numéro 2 de Idrissa Seck lors de l’élection présidentielle de 2019.\n\n                    En 2021, Déthié Fall a pris la présidence du Parti Républicain pour le Progrès (PRP). Il a également été actif au sein de l’opposition, coordonnant les plénipotentiaires de GOR ÇA WAX DJA en 2016 pour les concertations sur le processus électoral et ceux de l’opposition pour le dialogue politique de 2019-2020. Depuis 2021, il est le mandataire national de la coalition d’opposition Yewwi Askan Wi et a été le concepteur du Plan Déthié Fall (PDF) pour les législatives de 2022, une stratégie d’exécution pour l’inter coalition Yewwi Askan Wi-Wallu Sénégal.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Dethie-fall.png"
+    },
+    {
+      "id": 4,
+      "nom": "Ndiaye",
+      "prenom": "Daouda",
+      "profession": "Professeur Titulaire des Universités",
+      "partiePolitique": "FC DAOUDA",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/pogramme_du_candidat_daouda_ndiaye.pdf",
+      "description": "Le Pr. Daouda Ndiaye est un éminent parasitologue et mycologue sénégalais. Fort de son agrégation en Parasitologie et Mycologie décernée par le CAMES (Conseil Africain et Malgache pour l’Enseignement Supérieur), il détient le titre de Professeur Titulaire des Universités de Classe Exceptionnelle.\n\n                    Il est le fondateur et Directeur Général du Centre International de Recherche et de Formation en Génomique Appliquée et de Surveillance Sanitaire (CIGASS), une institution dédiée à la recherche et à l’innovation en santé.\n\n                    Au sein de l’Université Cheikh Anta Diop de Dakar (UCAD), le Pr. Daouda Ndiaye occupe plusieurs fonctions, dont celle de Chef du Service de Parasitologie-Mycologie Pharmaceutique à la Faculté de Médecine, de Pharmacie et d’Odontologie (FMPO). Il est également à la tête du Service de Parasitologie et Mycologie au Centre hospitalier universitaire Aristide le Dantec de Dakar.\n\n                    Il est Professeur chercheur associé à l’Université Harvard de Boston aux États-Unis, ce qui témoigne de sa reconnaissance internationale dans le domaine de la recherche médicale.\n\n                    Le Pr. Daouda Ndiaye a reçu diverses distinctions pour son expertise, dont le Prix de la francophonie 2020 de l’Académie Française de Pharmacie. En 2022, il a été élevé au rang de Professeur Émérite de Médecine Tropicale Américaine par la Société Savante Américaine de Médecine Tropicale et d’Hygiène, marquant ainsi son impact significatif dans la médecine tropicale.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Daouda-Ndiaye.png"
+    },
+    {
+      "id": 5,
+      "nom": "Habib",
+      "prenom": "Sy",
+      "profession": "Economiste",
+      "partiePolitique": "FC ECONOMIE",
+      "programmeFilePath": null,
+      "description": "Habib Sy est un économiste et homme politique sénégalais, originaire de Linguère. Sa carrière est marquée par une contribution significative à la fois dans l’administration publique et dans l’arène politique du Sénégal.\n\n                    Sur le plan professionnel, Habib Sy a débuté sa carrière en tant que commissaire aux Enquêtes économiques principales, après avoir obtenu son brevet de l’ENAM. Son expertise en économie l’a conduit à occuper des postes clés, reflétant son engagement envers le développement économique et la gestion efficace des ressources.\n\n                    Politiquement, Sy a eu un parcours remarquable. Il a été directeur de cabinet de Me Abdoulaye Wade entre mars 1995 et mars 1997, avant de devenir ministre d’État dans plusieurs gouvernements. Il a notamment servi en tant que ministre des Infrastructures, des Transports terrestres et des Transports aériens, ainsi que ministre de la Fonction publique, de l’Emploi, du Travail et des Organisations professionnelles. En outre, il a été maire de Linguère de 2002 à 2014, démontrant son engagement envers le service public et le développement local.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Habib-Sy.png"
+    },
+    {
+      "id": 6,
+      "nom": "Sall",
+      "prenom": "Khalifa Ababacar",
+      "profession": "Professeur d'histoire et de Géographie",
+      "partiePolitique": "UPS",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/programme_khalifa_ababacar_sall.pdf",
+      "description": "Khalifa Ababacar Sall, né le 1er janvier 1956 à Louga, Sénégal, est un homme politique sénégalais ayant occupé plusieurs postes ministériels sous la présidence d’Abdou Diouf et ayant été maire de Dakar de 2009 à 2018. Issu d’une famille de commerçants, il a grandi à Dakar et a suivi ses études au Lycée Blaise Diagne avant de s’inscrire à l’Université Cheikh Anta Diop en Histoire et Géographie. Il a également enseigné comme professeur d’Histoire-Géographie.\n\n                    Engagé en politique dès son jeune âge, Khalifa Sall a rejoint l’Union progressiste sénégalaise (UPS), devenue par la suite le Parti socialiste. Il a occupé diverses fonctions au sein du parti, notamment celle de secrétaire national des Jeunesses socialistes. En 1983, il est élu député à l’Assemblée nationale et a par la suite été nommé ministre délégué auprès du Premier ministre, chargé des Relations avec les Assemblées, puis ministre du Commerce et de l’Artisanat.\n\n                    Sa carrière politique a été entachée par une procédure judiciaire pour détournement de fonds publics en 2017, aboutissant à sa condamnation en 2018. Gracié en 2019, il a recouvré ses droits politiques et est devenu un acteur clé de l’opposition, contribuant à la formation de la coalition Yewwi Askan Wi.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Khalifa-Sall.png"
+    },
+    {
+      "id": 7,
+      "nom": "Ngom",
+      "prenom": "Anta Babacar",
+      "profession": "Entrepreneuse - DG SEDIMA",
+      "partiePolitique": "ARC",
+      "programmeFilePath": "https://senegalpolitique.org/wp-content/uploads/2024/03/Programme-Anta-Babacar-Ngom.pdf",
+      "description": "Anta Babacar Ngom, née en 1984 à Pikine, Sénégal, est une entrepreneure influente et la directrice générale du groupe Sedima, une entreprise leader dans l’aviculture au Sénégal. Elle incarne une figure emblématique de la réussite féminine dans le monde des affaires africain.\n\n                    Sa formation académique est solide, avec un Master 1 en économie de l’Université York de Toronto, un Master 2 en Management International de Projets et NTIC à Paris, et un Executive MBA en Communication à Sciences Po Paris. Ces études lui ont fourni une base solide pour sa carrière professionnelle.\n\n                    Sa carrière débute en 2009 au sein de Sedima, où elle gravit rapidement les échelons, passant d’Attachée de direction à Directrice générale en 2016. Sous sa direction, Sedima a renforcé sa position de leader dans l’aviculture sénégalaise. Anta Babacar Ngom est également mariée et mère de trois enfants, illustrant son rôle de leader tant dans le domaine professionnel que familial.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Anta-Babacar-Ngom.png"
+    },
+    {
+      "id": 8,
+      "nom": "Ba",
+      "prenom": "Amadou",
+      "profession": "Inspecteur des impots",
+      "partiePolitique": "APR",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/synth_programme_amadou_ba.pdf",
+      "description": "Amadou Ba, né le 17 mai 1961 à Dakar, est un homme politique sénégalais et membre de l’Alliance pour la République. Depuis le 17 septembre 2022, il occupe le poste de Premier ministre du Sénégal. Sa jeunesse dans une famille modeste à Dakar l’a conduit à obtenir un baccalauréat technique de gestion en 1980, suivi d’une maîtrise en sciences économiques spécialisée en gestion d’entreprises de l’Université Cheikh Anta Diop de Dakar en 1984, et d’un brevet de l’École nationale d’administration et de magistrature (ENAM) en impôts et domaines.\n\n                    Sa carrière professionnelle a débuté dans l’administration fiscale sénégalaise, où il a gravi les échelons pour devenir directeur général des impôts et des domaines, mettant en œuvre un nouveau Code général des impôts en 2013. En tant que ministre de l’Économie et des Finances à partir de 2013, puis ministre des Affaires étrangères entre 2019 et 2020, Ba a joué un rôle clé dans la gouvernance économique et diplomatique du Sénégal.\n\n                    Élu député en 2022, il a rapidement été nommé Premier ministre, renforçant son influence dans la politique sénégalaise. En septembre 2023, il a été désigné candidat de la coalition Benno Bokk Yakaar pour l’élection présidentielle de 2024, marquant une étape importante dans sa carrière politique. Marié et père de trois enfants, Ba représente une figure centrale dans le paysage politique actuel du Sénégal.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Amadou-Ba.png"
+    },
+    {
+      "id": 9,
+      "nom": "Seck",
+      "prenom": "Idrissa",
+      "profession": "Auditeur - Consultant",
+      "partiePolitique": "Rewmi",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/pogramme_du_candidat_idrissa_seck.pdf",
+      "description": "Idrissa Seck, né le 9 août 1959 à Thiès, a été Premier ministre du Sénégal de 2002 à 2004 et maire de Thiès de 2002 à 2014. Après ses études primaires et secondaires à Thiès, il a poursuivi sa formation en France, intégrant la classe préparatoire à HEC puis Sciences Po Paris. En 1989, il a bénéficié d’une bourse à l’université de Princeton.\n\n                    Idrisssa Seck a débuté sa carrière politique en 1988 comme directeur de campagne d’Abdoulaye Wade, avant de devenir Ministre du Commerce en 1995. En 2000, il a été nommé ministre d’État, directeur de cabinet du président Wade, puis Premier ministre en 2002. Après une période de disgrâce et d’incarcération en 2005, il a été libéré en 2006.\n\n                    Il a été candidat à trois élections présidentielles, se classant deuxième en 2007 et 2019. En 2020, il a présidé le Conseil économique, social et environnemental jusqu’en 2023, avant d’annoncer sa candidature à l’élection présidentielle de 2024.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Idrissa-Seck.png"
+    },
+    {
+      "id": 10,
+      "nom": "Dia",
+      "prenom": "Alioune Mamadou",
+      "profession": "Fonctionnaire International",
+      "partiePolitique": "PUR",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/programme_aliou_mamadou_dia_pur.pdf",
+      "description": "Aliou Mamadou Dia, originaire du Sénégal, est un fonctionnaire international reconnu pour son travail prolongé au sein des Nations Unies, particulièrement au Programme des Nations Unies pour le développement (PNUD). Avant de rejoindre l’ONU, il a consacré plus de cinq ans à la recherche et à l’enseignement universitaire, contribuant significativement à son domaine lors de la préparation de sa thèse de doctorat.\n\n                    Professionnellement, Dia a marqué son parcours par une expérience notable de 18 ans dans le développement durable en Afrique, principalement avec le PNUD. De 2019 à 2023, il a été Représentant résident du PNUD au Togo, assumant également le rôle de Coordonnateur Résident du Système des Nations Unies. En avril 2023, il a été nommé représentant résident du PNUD au Cameroun, continuant à diriger des programmes d’appui aux gouvernements dans l’alignement sur les Objectifs de Développement Durable.\n\n                    Dia a également joué un rôle clé dans la réponse aux crises et le renforcement de la résilience à travers l’Afrique, en dirigeant des initiatives importantes telles que la stratégie régionale africaine de réponse à la crise d’El Nino et en mobilisant des fonds significatifs pour la réduction des risques de catastrophe. Son expertise a facilité le développement de partenariats stratégiques au sein du Système des Nations Unies et avec diverses institutions financières multilatérales, contribuant à la mobilisation de ressources pour le développement durable à travers le continent.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Aliou-Mamadou-Dia.png"
+    },
+    {
+      "id": 11,
+      "nom": "Mboup",
+      "prenom": "Serigne",
+      "profession": "Entrepreneur",
+      "partiePolitique": "APS",
+      "programmeFilePath": null,
+      "description": "Serigne Mboup, né à Ndiaganiao, a commencé son éducation dans une école coranique à Coki, où il a étudié le Saint Coran. Après avoir terminé ses études coraniques, il a rejoint le secteur des affaires à l’âge de 17 ans, suivant les pas de son père, El Hadji Bara Mboup, un commerçant établi à Dakar.\n\n                    À la suite du décès de son père en 1992, Serigne Mboup a pris la direction de l’entreprise familiale, le Groupe Comptoir Commercial Bara Mboup (CCBM), et a élargi ses activités dans divers secteurs, y compris l’automobile, l’électronique, et l’agriculture.\n\n                    Sur le plan politique, Mboup a été élu président de la chambre de commerce de Kaolack en 2010. En 2022, il est devenu maire de Kaolack. ",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Serigne-Mboup.png"
+    },
+    {
+      "id": 12,
+      "nom": "Fall",
+      "prenom": "Pape Djibril",
+      "profession": "Journaliste",
+      "partiePolitique": "PCS-Jengu Tabax",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/programme_pape_djibril_fall.pdf",
+      "description": "Papa Djibril Fall est un journaliste et consultant en communication, diplômé de la 42ème promotion du Centre d’études des sciences et techniques de l’information (Cesti) en 2014. Originaire de Thiadiaye, sa ville natale, il a travaillé en tant qu’ancien chroniqueur sur les plateaux de télévision de 2stv et de TFM, appartenant au Groupe Futurs Médias (GMS).\n\n                    Sur le plan politique, il a été élu membre du parlement lors des élections législatives de juillet 2022 au Sénégal. En vue de l’élection présidentielle prévue en février 2024, Papa Djibril Fall a annoncé sa candidature en tant que candidat indépendant, avec pour objectif de succéder à Macky Sall à la présidence du Sénégal.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Pape-Djbibril-fall.png"
+    },
+    {
+      "id": 13,
+      "nom": "Diallo",
+      "prenom": "Mamadou Lamine",
+      "profession": "Economiste",
+      "partiePolitique": "Mouvement Tekki",
+      "programmeFilePath": "https://www.editions-harmattan.fr/catalogue/couv/aplat/9782296102705.pdf",
+      "description": "Mamadou Lamine Diallo, né en 1959 à Dakar, est un intellectuel et homme politique sénégalais, fondateur du Mouvement Tekki. Après avoir obtenu son baccalauréat au lycée Lamine Gueye, il a intégré les classes préparatoires au Lycée Louis le Grand à Paris, puis a été admis à l’École Polytechnique de Paris et à l’École des Mines de Paris. Il est ingénieur de l’École Polytechnique et de l’École des Mines de Paris, et détient un doctorat en Économie de l’École des Mines de Paris.\n\n                    Sa carrière professionnelle a débuté en tant qu’ingénieur aux Charbonnages de France, puis économiste au Centre d’Economie industrielle de l’Ecole des Mines de Paris. Il a également travaillé comme économiste senior de l’énergie à SEED et SYNDEX à Paris, conseiller de l’Administrateur à la Banque Mondiale à Washington D.C., et a occupé divers postes à la Banque centrale des Etats de l’Afrique de l’Ouest (BCEAO).\n\n                    En politique, Diallo s’est présenté comme candidat indépendant à l’élection présidentielle de février 2007 au Sénégal. Il est président du Mouvement Tekki et membre de la Conférence des leaders de la coalition Bennoo Siggil Senegaal, victorieuse lors des élections locales de 2009. Il a également contribué aux travaux des Assises Nationales du Sénégal.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Khalifa-Sall.png"
+    },
+    {
+      "id": 14,
+      "nom": "Dione",
+      "prenom": "Mahammed Boun Abdallah ",
+      "profession": "non renseigné",
+      "partiePolitique": "PPR",
+      "programmeFilePath": "https://terangavote.sn/wp-content/uploads/2024/01/Programme-Boun-Abdallah.pdf",
+      "description": "Mahammed Boun Abdallah Dionne est né le 22 septembre 1959 à Gossas, région de Fatick. Après avoir obtenu son baccalauréat série C en 1977, Dionne a poursuivi ses études supérieures en France, où il a été diplômé de l’Institut d’informatique d’entreprise, rattaché au Conservatoire national des arts et métiers à Paris. Il détient également un diplôme de troisième cycle en Économie Internationale et Globalisation de l’université de Grenoble.\n\n                    Sa carrière professionnelle a débuté chez IBM France en 1983, avant de rejoindre la Banque centrale des États de l’Afrique de l’Ouest (BCEAO) où il a gravi les échelons jusqu’à devenir directeur. Dionne a également occupé des postes gouvernementaux au Sénégal, notamment directeur de l’Industrie et chef du bureau économique du Sénégal à Paris.\n\n                    En politique, Dionne a été nommé Premier ministre par le président Macky Sall en 2014, après avoir dirigé avec succès la liste de la coalition gouvernementale Benno Bokk Yaakar lors des élections législatives de 2017. Suite à la suppression de la fonction de Premier ministre en 2019, il est devenu ministre d’État, secrétaire général de la présidence de la République. Dionne est candidat à l’élection présidentielle de 2024",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Boun-dione.png"
+    },
+    {
+      "id": 15,
+      "nom": "GAKOU",
+      "prenom": "El Hadji Malick",
+      "profession": "Economiste",
+      "partiePolitique": "Grand Parti",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/programme_malick_gakou.pdf",
+      "description": "Malick GAKOU, né le 17 août 1961 à Dakar, a grandi à Thiaroye Sur Mer. Après avoir obtenu son baccalauréat série F2 à Guédiawaye, il a poursuivi ses études en Pologne et obtenu un Master en commerce extérieur et un Doctorat en sciences économiques de la Warsaw School of Economics. Il a également été actif dans la vie associative étudiante et a maintenu un lien fort avec la Pologne et sa culture.\n\n                    Professionnellement, au Sénégal il débuté sa carrière au Conseil Économique Social et Environnemental (CESE) du Sénégal, où il a gravi les échelons jusqu’à devenir Conseiller spécial. Il a également occupé le poste de Directeur de Cabinet au Ministère des Transports et des Infrastructures et a été impliqué dans le secteur privé. En tant que Président du Conseil Régional de Dakar, il a initié des projets significatifs pour lutter contre les inondations.\n\n                    En politique, Malick GAKOU a été un membre influent du Parti socialiste avant de rejoindre l’Alliance des forces de progrès (AFP), puis de fonder le Grand Parti (GP) en 2015.\n\n                    Il a joué un rôle clé dans la coalition d’opposition Mankoo Wattu Sénégal et a activement soutenu la campagne présidentielle d’Idrissa Seck en 2019. Malick GAKOU est reconnu pour son engagement envers les causes sociales, culturelles et sportives, notamment à travers sa Fondation Maternité solidaire et son implication dans le football et le dialogue interreligieux.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Ngakou.png"
+    },
+    {
+      "id": 16,
+      "nom": "Ndiaye",
+      "prenom": "Aly Ngouille",
+      "profession": "Ingenieur",
+      "partiePolitique": "NEANT",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/pogramme_du_candidat_daouda_ndiaye.pdf",
+      "description": "Aly Ngouille Ndiaye, né le 16 août 1964 à Linguère, est un homme politique sénégalais ayant occupé plusieurs postes ministériels depuis 2012. Il a suivi ses études à l’École polytechnique de Thiès, obtenant un diplôme en génie civil, puis à l’Institut de technologie de l’Illinois aux États-Unis, où il a décroché un diplôme de troisième cycle en finances.\n\n                    Professionnellement, Ndiaye a débuté sa carrière à la Banque de l’habitat du Sénégal (BHS), où il est devenu directeur de crédit. Il a également présidé le conseil d’administration du club de football ASC Dahra de Linguère.\n\n                    En politique, Ndiaye a fondé le Mouvement pour la Renaissance du Djolof (MRD) en 2007 avant de s’allier avec Macky Sall et l’Alliance pour la République (APR) en 2012. Il est maire de Linguère depuis 2012 et a servi comme ministre de l’Énergie, des Mines et de l’Industrie de 2012 à 2017, ministre de l’Intérieur de 2017 à 2020, et ministre de l’Agriculture, de l’Équipement rural et de la Souveraineté alimentaire de 2022 à 2023.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/AlyNgouille-ndiaye.png"
+    },
+    {
+      "id": 17,
+      "nom": "Diao",
+      "prenom": "El Hadji Mamadou",
+      "profession": "Inspecteur des impots",
+      "partiePolitique": "APS",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/programme_mama_boye_diao.pdf",
+      "description": "Elhadj Mamadou Diao, plus connu sous le nom de Mameboye, est né en 1970 à Bignona. Mameboye a débuté ses études à l’école Abdoulaye Diallo de Doumassou avant de poursuivre au Lycée Alpha Molo Baldé de Kolda, où il a obtenu son baccalauréat en 1991.\n\n                    Après le lycée, Mameboye a intégré l’Université Gaston Berger à Saint-Louis, où il a décroché une maîtrise en Sciences politiques, option Relations internationales, en 1996. Il a ensuite réussi le concours de l’École Nationale d’Administration (ENA) de Dakar en 1998, devenant inspecteur des impôts et des domaines en 2000.\n\n                    Sa carrière professionnelle a commencé au Centre des Services Fiscaux de Dakar-Plateau, où il a travaillé de 2000 à 2005, avant de devenir chef de centre à Fatick puis aux Parcelles Assainies. En 2014, il a été promu Directeur des Services Fiscaux régionaux, et en 2017, Directeur des Services à la Direction générale des Impôts et Domaines.\n\n                    En politique, Mameboye a rejoint l’Alliance Pour la République (APR) du Président Macky Sall en 2012.  Le 23 janvier 2022, il a été élu maire de Kolda sous la bannière de la Coalition CPJE\/Nay Leer.\n\n                    Mameboye est marié à Adja Amélie Diadhiou et père de trois enfants.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/Mame-boye-diao.png"
+    },
+    {
+      "id": 18,
+      "nom": "Faye",
+      "prenom": "Bassirou Diomaye ",
+      "profession": "Inspecteur des impots",
+      "partiePolitique": "PASTEF",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/programme_bassirou_diomaye_faye_vf.pdf",
+      "description": "Bassirou Diomaye Faye, né à Ndiaganiao il y a 40 ans, a commencé son parcours éducatif à la mission catholique et au CEM de Ndiaganiao, avant de poursuivre ses études au Lycée Demba Diop de Mbour où il a décroché son baccalauréat en 2000.\n\n                    Il est diplômé de l’ENA et détient une maîtrise en Droit de l’UCAD obtenue en 2004.\n\n                    Sa carrière professionnelle l’a vu occuper divers postes au sein de l’administration fiscale sénégalaise, notamment au Centre des professions libérales, au Centre des grandes entreprises, et à la Brigade des vérifications, avant de devenir chef du bureau des contentieux à la Direction de la législation et de la coopération.\n\n                    Bassirou Diomaye Faye est membre fondateur du parti Pastef-Les Patriotes, où il été président du Mouvement des cadres puis secrétaire général avant la dissolution du parti en Juillet 2023.\n\n                    Bassirou Diomaye Faye est en prison depuis le mois d’avril 2023 et accusé de diffusion de fausse nouvelle, outrage à magistrat et diffamation envers un corps constitué, à la suite de la publication d’un post sur les réseaux sociaux où il critique le comportement de certains magistrats.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/DIOMAYE.png"
+    },
+    {
+      "id": 19,
+      "nom": "Sall",
+      "prenom": "Thierno Alassane",
+      "profession": "Ingenieur Telecommunication",
+      "partiePolitique": "Réewum Ngor",
+      "programmeFilePath": "https://www.ipar.sn/IMG/pdf/programme_thierno_alassane_sall.pdf",
+      "description": "Thierno Alassane Sall, né le 30 novembre 1963 à Thiès, est un homme politique sénégalais et figure de l’opposition depuis 2017.\n\n                    Après son baccalauréat, il a étudié en Tunisie à l’École nationale d’ingénieurs de Sfax, où il a obtenu un diplôme d’ingénieur en électronique spécialisé en t\u00e9lécommunications. Il est également diplômé de l’École africaine de la météorologie et de l’aviation civile (EAMAC) de Niamey et détient une licence en économie de l’université Cheikh-Anta-Diop de Dakar.\n\n                    Professionnellement, Sall a consacré sa carrière à l’Agence pour la sécurité de la navigation aérienne en Afrique et à Madagascar (ASECNA), où il a occupé divers postes de direction. Il a été auditeur certifié de l’Organisation de l’aviation civile internationale (OACI) puis en avril 2012, il a été nommé directeur général de l’Agence de Régulation des Télécommunications et des Postes du Sénégal, où il a initié des réformes pour améliorer la qualité de service et la régulation postale.\n\n                    En politique, Sall a été ministre des Infrastructures, des Transports terrestres et du Désenclavement de 2012 à 2014, puis ministre de l’Énergie de 2015 à 2017.\n\n                    Après avoir quitté l’Alliance Pour la République (APR) en 2017, il a fondé le parti la République des Valeurs, qu’il préside.",
+      "photoPath": "https://github.com/nouha404/image-and-pdf/blob/main/photos/TAS.png"
+    }
+  ]
+}
