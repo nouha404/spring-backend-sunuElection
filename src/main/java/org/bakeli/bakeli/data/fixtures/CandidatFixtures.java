@@ -8,6 +8,7 @@ import org.bakeli.bakeli.data.entities.CandidatData;
 import org.bakeli.bakeli.data.repositories.CandidatRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.core.annotation.Order;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 
@@ -19,6 +20,7 @@ import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
+@Order(3)
 //@Component
 @RequiredArgsConstructor
 public class CandidatFixtures implements CommandLineRunner {
