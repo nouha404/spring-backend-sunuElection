@@ -31,5 +31,7 @@ public class VotantServiceImpl implements VotantService {
             throw new EntityNotFoundException("Électeur non trouvé avec l'ID: " + electeurId);
         }
 
+
+
     }
 }

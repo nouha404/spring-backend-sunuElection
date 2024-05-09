@@ -86,6 +86,14 @@ public class ElecteurRestControllerImpl implements ElecteurRestController {
 
     @Override
     public ResponseEntity<?> addVote(UserDetails userDetails) {
+
+        try {
+            votantService.addVote(userDetails.getUsername()); // Supposons que le nom d'utilisateur soit utilisé comme identifiant pour le vote
+            return new ResponseEntity<>("Vote ajouté avec succès", HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>("Erreur lors de l'ajout du vote: " + e.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+
         /*   @Override
     public ResponseEntity<Map<Object, Object>> addVote(Long electeurId,BindingResult bindingResult) {
         Map<Object, Object> response;

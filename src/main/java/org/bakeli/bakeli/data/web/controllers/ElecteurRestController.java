@@ -1,6 +1,7 @@
 package org.bakeli.bakeli.data.web.controllers;
 
 import jakarta.validation.Valid;
+import org.bakeli.bakeli.data.security.services.CustomUserDetailsService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -37,7 +38,7 @@ public interface ElecteurRestController {
 
     @PostMapping("/voter")
     ResponseEntity<?> addVote(
-            @AuthenticationPrincipal UserDetails userDetails
+            @AuthenticationPrincipal CustomUserDetailsService userDetails
     );
 
 }
