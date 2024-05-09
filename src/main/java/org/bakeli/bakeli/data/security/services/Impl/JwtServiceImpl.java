@@ -21,8 +21,6 @@ public class JwtServiceImpl {
     //clee prive 64 caracteres
     private static final String SECRET = "N5v52H7YWUzsFgXyrA3SdcJtL6B9g2DqRyv5w7f3xEXqAZKhT8JL4Ce3kFnGyjK";
 
-
-
     public String createToken(String nom) {
         return Jwts.builder()
                 .setClaims(new HashMap<String,Object>() )

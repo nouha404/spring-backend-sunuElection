@@ -36,9 +36,9 @@ public interface ElecteurRestController {
             @RequestParam(required = false) String CNI
     );
 
-    @PostMapping("/voter")
+    @PostMapping("/voter/{numeroCni}")
     ResponseEntity<?> addVote(
-            @AuthenticationPrincipal CustomUserDetailsService userDetails
+            @PathVariable String numeroCni
     );
 
 }

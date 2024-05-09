@@ -28,8 +28,8 @@ public class JwtFilter extends OncePerRequestFilter {
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain) throws ServletException, IOException {
         //les infos de la requete , les transformer
         String autorizationHeader = request.getHeader("Authorization");
-        String token = "";
-        String nom = "";
+        String token = null;
+        String nom = null;
         if (autorizationHeader != null && autorizationHeader.startsWith("Bearer ")) {
             token = autorizationHeader.substring(7);
             //extraire le username

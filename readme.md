@@ -309,4 +309,16 @@ Response:
 ```
 
 
+Faire voter un electeur
 
+POST electeurs/voter/numeroCni
+
+Request:
+```json
+http://localhost:10002/api/electeurs/voter/11686377
+```
+Response:
+```json
+Vote ajouté avec succès
+```
+J'ai proceder ainsi car j'ai une erreur 403 je veux generer un token d'authentification

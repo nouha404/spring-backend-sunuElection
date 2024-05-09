@@ -2,6 +2,7 @@ package org.bakeli.bakeli.data.web.controllers.impl;
 
 import lombok.RequiredArgsConstructor;
 import org.bakeli.bakeli.data.entities.Electeurs;
+import org.bakeli.bakeli.data.security.services.CustomUserDetailsService;
 import org.bakeli.bakeli.data.services.ElecteurService;
 import org.bakeli.bakeli.data.services.VotantService;
 import org.bakeli.bakeli.data.web.controllers.ElecteurRestController;
@@ -14,6 +15,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -85,36 +87,13 @@ public class ElecteurRestControllerImpl implements ElecteurRestController {
     }
 
     @Override
-    public ResponseEntity<?> addVote(UserDetails userDetails) {
-
+    public ResponseEntity<?> addVote(String numeroCni) {
         try {
-            votantService.addVote(userDetails.getUsername()); // Supposons que le nom d'utilisateur soit utilisé comme identifiant pour le vote
+            votantService.addVote(numeroCni); // Supposons que le nom d'utilisateur soit utilisé comme identifiant pour le vote
             return new ResponseEntity<>("Vote ajouté avec succès", HttpStatus.OK);
         } catch (Exception e) {
             return new ResponseEntity<>("Erreur lors de l'ajout du vote: " + e.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
         }
-
-        /*   @Override
-    public ResponseEntity<Map<Object, Object>> addVote(Long electeurId,BindingResult bindingResult) {
-        Map<Object, Object> response;
-        if(bindingResult.hasErrors()){
-            Map<String, String> errors = new HashMap<>();
-            List<FieldError> fieldErrors = bindingResult.getFieldErrors();
-            fieldErrors.forEach(fieldError -> errors.put(fieldError.getField(), fieldError.getDefaultMessage()));
-
-            response = RestResponseDto.response(errors, HttpStatus.NOT_FOUND);
-
-        } else {
-            try {
-                votantService.addVote(electeurId);
-                response = RestResponseDto.response("Vote ajouté avec succès", HttpStatus.CREATED); // 201
-            } catch (Exception e) {
-                response = RestResponseDto.response("Erreur lors de l'ajout du vote", HttpStatus.INTERNAL_SERVER_ERROR); // 500
-            }
-        }
-        return new ResponseEntity<>(response,HttpStatus.OK);
-    }*/
-        return null;
     }
 
 

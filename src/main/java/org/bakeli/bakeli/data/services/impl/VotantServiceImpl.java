@@ -20,15 +20,15 @@ public class VotantServiceImpl implements VotantService {
     }
 
     @Override
-    public void addVote(Long electeurId) {
-        Electeurs electeur = electeurRepository.findById(electeurId).orElse(null);
+    public void addVote(String numeroCni) {
+        Electeurs electeur = electeurRepository.findByNumeroCni(numeroCni);
         if (electeur != null) {
             Votant votant = new Votant();
             votant.setElecteurs(electeur);
             votant.setIsActive(true);
             votantRepository.save(votant);
         } else {
-            throw new EntityNotFoundException("Électeur non trouvé avec l'ID: " + electeurId);
+            throw new EntityNotFoundException("Électeur non trouvé avec le numero CNI: " + numeroCni);
         }
 
 
