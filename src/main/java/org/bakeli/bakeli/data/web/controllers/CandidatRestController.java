@@ -14,4 +14,10 @@ public interface CandidatRestController {
             @RequestParam(defaultValue = "5", name = "size") int size,
             @RequestParam(defaultValue = "", name = "nom") String nom
     );
+
+    @GetMapping("/inscrits")
+    ResponseEntity<Map<Object,Object>> listeNombreCandidat(
+            @RequestParam(defaultValue = "0",name = "page") int page,
+            @RequestParam(defaultValue = "10", name = "size") int size
+    );
 }

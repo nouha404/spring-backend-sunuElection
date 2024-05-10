@@ -138,6 +138,27 @@ Response:
 }
 ```
 
+Lister le nombre total de candidats a l'election presidentielle
+
+GET /candidats/inscrits : Renvoie le nombre total de candidats inscrite
+
+Response : Renvoie un objet JSON contenant le nombre total de candidats inscrite
+
+Exemple d’utilisation
+Request:
+```json
+http://localhost:10002/api/candidats/inscrits
+```
+Response:
+
+```json
+{
+  "statuts": 200,
+  "results": 19
+}
+```
+
+
 
 Lister le nombre d’électeurs inscrits sur la liste électorale
 
@@ -286,8 +307,6 @@ Response:
 
 
 
-
-
 Lister le nombre total d'électeurs qui ont voté
 
 GET /electeurs/voter : Renvoie le nombre total d'électeurs ayant voté
@@ -307,6 +326,8 @@ Response:
   "results": 9
 }
 ```
+
+
 
 
 Faire voter un electeur

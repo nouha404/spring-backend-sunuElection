@@ -9,6 +9,7 @@ public interface CandidatRepository extends JpaRepository<Candidat,Long> {
     Page<Candidat> findAllByIsActiveTrue(Pageable page);
 
     Page<Candidat> findByNomAndIsActiveTrue(String nom, Pageable page);
+    Long countAllByIsActiveTrue();
 
     Page<Candidat> findAllByPartiePolitiqueContains(String partiePolitique, Pageable page);
 }

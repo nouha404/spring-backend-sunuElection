@@ -36,4 +36,15 @@ public class CandidatRestControllerImpl implements CandidatRestController {
         );
         return new ResponseEntity<>(response, HttpStatus.OK);
     }
+
+    @Override
+    public ResponseEntity<Map<Object, Object>> listeNombreCandidat(int page, int size) {
+        Long candidatInscrit = candidatService.getNombreInscrit();
+        Map<Object,Object> response = RestResponseDto.response(
+                candidatInscrit,
+                HttpStatus.OK
+        );
+
+        return new ResponseEntity<>(response, HttpStatus.OK);
+    }
 }

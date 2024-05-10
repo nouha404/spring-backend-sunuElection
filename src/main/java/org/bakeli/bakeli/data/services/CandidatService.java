@@ -7,4 +7,5 @@ import org.springframework.web.multipart.MultipartFile;
 
 public interface CandidatService {
     Page<Candidat> getCandidat(String nom,Pageable pageable);
+    Long getNombreInscrit();
 }

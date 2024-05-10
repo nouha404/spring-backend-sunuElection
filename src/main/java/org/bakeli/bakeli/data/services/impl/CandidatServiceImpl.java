@@ -25,4 +25,9 @@ public class CandidatServiceImpl implements CandidatService {
             return candidatRepository.findAllByIsActiveTrue(pageable);
         }
     }
+
+    @Override
+    public Long getNombreInscrit() {
+        return candidatRepository.countAllByIsActiveTrue();
+    }
 }
